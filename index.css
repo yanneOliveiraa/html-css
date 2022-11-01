@@ -1,0 +1,35 @@
+body{
+    font-size: 24px;
+    font-style: italic;
+    color:floralwhite ;
+    background-color: darkslategrey;
+    
+}
+title{
+    font-size: 30px;
+    font-style: initial;
+    color: darkgrey;
+    background-color: darkcyan;
+}
+h1{
+    font-size: 30px;
+    font-style: initial;
+    color: darkgrey;
+    background-color: darkcyan;
+}
+h2{
+    font-size: 28px;
+    font-style: oblique;
+    color: floralwhite;
+    background-color: darkseagreen;
+    
+}
+h4{font-size: 30px;
+    font-style: initial;
+    color: darkgrey;
+    background-color: darkcyan;
+
+}
+a{
+    color: cadetblue;
+}
